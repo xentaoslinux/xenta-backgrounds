@@ -1,0 +1,14 @@
+Source: xenta-backgrounds
+Section: admin
+Priority: optional
+Maintainer: Dindin Hernawan (Xenta OS) <root@dev.xentaos.org>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.7
+Homepage: https://github.com/xentaos/xenta-backgrounds
+Vcs-Browser: https://github.com/xentaos/xenta-backgrounds.git
+
+Package: xenta-backgrounds
+Architecture: all
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: Paket Wallpaper Default Xenta OS.
+ Wallpaper Desktop Bawaan untuk Xenta OS Semua Edisi.
