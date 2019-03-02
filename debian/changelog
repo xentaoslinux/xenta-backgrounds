@@ -1,16 +1,14 @@
-<<<<<<< HEAD
-xenta-backgrounds (1.3.1+xentaos2) batik; urgency=medium
+xenta-backgrounds (1.3.3+xentaos2) batik; urgency=medium
 
   * Pembuatan Paket Pertama
 
  -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Sat, 02 Mar 2019 23:11:43 +0700 
-=======
+
 xenta-backgrounds (1.3.2) batik; urgency=medium
 
   * Ganti Background Theme Batik
 
  -- Dindin Hernawan (Xenta OS) <dindin_hernawan@yahoo.com>  Mon, 11 Feb 2019 09:50:38 +0700
->>>>>>> bec70b7ab60988fb22bf4a72b683ba0500ba772c
 
 xenta-backgrounds (1.3.0) arok; urgency=medium
 
