@@ -13,7 +13,11 @@
 # along with this program.  If not, see <http://www.gnu.org/licenses/>
 
 package=xenta-backgrounds
+<<<<<<< HEAD
 version="xenta-backgrounds (1.3.1+xentaos2)"
+=======
+version="xenta-backgrounds (1.3.2)"
+>>>>>>> bec70b7ab60988fb22bf4a72b683ba0500ba772c
 figlet $package
 echo " Set Remote... "
 git remote set-url origin git@github.com:xentaoslinux/$package.git
